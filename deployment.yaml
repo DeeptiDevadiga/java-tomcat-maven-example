@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: javamaven
-        image: sreedocker123/cafewebimage:final
+        image: sheetalsshetty/java:v3
         ports:
-        - containerPort: 80
+        - containerPort: 8081
